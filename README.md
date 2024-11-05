@@ -1,4 +1,8 @@
-![EIA Logo](https://github.com/BenWierszycki/dfx/blob/main/EIA%20logo.png?raw=true)   ![Tableau Logo](https://github.com/BenWierszycki/dfx/blob/main/Tableau-Emblem.png?raw=true)
+<p align="left">
+  <img src="https://github.com/BenWierszycki/dfx/blob/main/EIA%20logo.png?raw=true" alt="EIA Logo" width="100" height="auto">
+  <img src="https://github.com/BenWierszycki/dfx/blob/main/Tableau-Emblem.png?raw=true" alt="Tableau Logo" width="100" height="auto">
+</p>
+
 
 This repository contains the back-end code for the creation of a database table containing historical energy data (2009-2022) for the United States of America.
 
